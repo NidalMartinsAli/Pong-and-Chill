@@ -11,6 +11,7 @@ public class SetPlayerName : MonoBehaviour{
     
     public void SetName(){
         playerData.playerName = nameInput.text;
+        
     }
 
 }
